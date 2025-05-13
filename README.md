@@ -3,6 +3,14 @@
 Welcome to the MEP1-Quantum-Entanglement repository! This project implements the MEP1 (Model of Entangled Paradox Resolution 1), a 3-qubit quantum circuit designed to resolve the grandfather paradox through temporal entanglement on IBM Quantum hardware. All technical content is provided in accessible PDF format for broad usability.
 
 ## Repository Structure
+```
+.
+MEP1-Quantum-Entanglement/
+├── Calibration Report ibmq manila – Falcon r5.11H.pdf
+├── LICENSE
+├── MEP1-Quantum-Entanglement.pdf
+└── README.md
+```
 
 - **Calibration Report ibmq manila – Falcon r5.11H.pdf**: Contains real hardware data for the `ibmq_manila` processor, including \( P(|011\rangle) = 0.318 \pm 0.02 \), \( T_1 = 75 \, \mu\text{s} \), \( T_2 = 105 \, \mu\text{s} \), and other metrics, validated as of 2022-11-13.
 - **LICENSE**: Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) governing the use of this project.
