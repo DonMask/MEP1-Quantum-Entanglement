@@ -19,7 +19,7 @@ MEP1-Quantum-Entanglement/
 
 ## Overview
 
-MEP1 is a computational framework that models timeline bifurcation using a 6-gate quantum circuit. It validates results against real data from the `ibmq_manila` processor, achieving a probability \( P(|011\rangle) = 0.318 \pm 0.02 \) with 92.2% fidelity, matching noise-adjusted simulations.
+MEP1 is a computational framework that models timeline bifurcation using a 6-gate quantum circuit. It validates results against real data from the `ibmq_manila` processor, achieving a probability \( P(|011\rangle) = 0.318 \pm 0.02 \) with 92.2% fidelity, matching noise-adjusted simulations. The project has been published on Zenodo with the DOI: [10.5281/zenodo.15397516](https://doi.org/10.5281/zenodo.15397516).
 
 ## Features
 
